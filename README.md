@@ -1,5 +1,5 @@
+![pasted image 0](https://github.com/FuatYavas/cyberStartPython/assets/122972248/fd1ae485-a7dd-452c-b899-c28f021ec1a2)
 
-https://lh7-us.googleusercontent.com/nPfCm5iIpBSZ046cFX6_nigXzWzp5ZEy5IqwCyf0Tw4DH8eeDhjz9bX05y0pT03gurzg6dulaObb7-o7wuevBBySG1xCIzkkM91EqqgDvFKPJc_V40bbT3Se9qt4EDBreCLOlugrMdBbvDVnr79vzo4
 
 Resimdeki formül:
 d = √(x₂-x₁)²+(y₂-y₁)²
