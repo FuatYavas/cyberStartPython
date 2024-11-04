@@ -25,3 +25,6 @@ Bir döngü kullanarak, ‘points’ listesindeki her nokta çifti arasındaki �
 Minimum Mesafenin Bulunması:
 
 ‘distances’ listesinden minimum mesafeyi bulun ve yazdırın.
+
+[Miro Panosunu Görüntüle](https://miro.com/app/live-embed/uXjVLJoGlP8=/?moveToViewport=9395,3898,5902,2196&embedId=387423557813)
+
